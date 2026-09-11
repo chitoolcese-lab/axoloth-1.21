@@ -34,7 +34,7 @@ import io.github.axolotlclient.bridge.commands.Commands;
 import io.github.axolotlclient.bridge.commands.PlayerArgument;
 import io.github.axolotlclient.bridge.events.Events;
 import io.github.axolotlclient.bridge.util.AxoText;
-import io.github.axolotlclient.modules.hypixel.bedwars.BedwarsPrestige;
+// import io.github.axolotlclient.modules.hypixel.bedwars.BedwarsPrestige;
 import lombok.Getter;
 
 import static io.github.axolotlclient.bridge.commands.Commands.argument;
