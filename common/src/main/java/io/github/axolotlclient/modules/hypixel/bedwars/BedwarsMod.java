@@ -1,5 +1,5 @@
 /*
- * Copyright © ${CREATION_YEAR} moehreag <moehreag@gmail.com> & Contributors
+ * Copyright © 2021-2026 moehreag <moehreag@gmail.com> & Contributors
  *
  * This file is part of AxolotlClient.
  *
