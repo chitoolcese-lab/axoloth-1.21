@@ -163,7 +163,7 @@ public class StatsMod implements AbstractHypixelMod {
 		new Entry("bedwars", (c, uuid, username, data) -> {
 			final var allStats = data.bedwars().all();
 			List.of(
-				translatable("playerstats.bedwars.title", data.formattedName(),
+				translatable("playerstats.bedwars.title", data.formattedName()),
 				statText("playerstats.bedwars.kdr", allStats.kills(), allStats.deaths(), allStats.kdr()),
 				statText("playerstats.bedwars.fkdr", allStats.finalKills(), allStats.finalDeaths(), allStats.fkdr()),
 				statText("playerstats.bedwars.beds", allStats.bedsBroken(), allStats.bedsLost(), allStats.bblr()),
